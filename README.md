@@ -1,6 +1,6 @@
 # Minimal Dark Neon Yellow Theme (minimal-dark-neon-yellow-theme)
 
-A minimal theme that uses high-contrast dark as the default and neon yellow as the accent color.
+A minimal VS Code theme that uses high-contrast dark as the default and neon yellow as the accent color.
 
 Showcase:
 
