@@ -3,6 +3,7 @@
   "displayName": "minimal-dark-neon-yellow-theme",
   "description": "Minimal dark theme with neon yellow accent.",
   "version": "1.0.0",
+  "publisher": "GabrielDSanchez",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -17,5 +18,10 @@
         "path": "./themes/Minimal Dark Neon Yellow Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielsanchez5985/minimal-dark-neon-yellow-theme.git"
+  },
+  "homepage": "https://github.com/gabrielsanchez5985/minimal-dark-neon-yellow-theme/blob/main/README.md"
 }
