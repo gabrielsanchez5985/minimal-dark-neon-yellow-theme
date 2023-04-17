@@ -2,7 +2,7 @@
   "name": "minimal-dark-neon-yellow-theme",
   "displayName": "minimal-dark-neon-yellow-theme",
   "description": "Minimal dark theme with neon yellow accent.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "GabrielDSanchez",
   "engines": {
     "vscode": "^1.77.0"
