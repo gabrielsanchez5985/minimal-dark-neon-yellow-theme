@@ -1,5 +1,5 @@
 {
-	"name": "Minimal Dark Neon Yellow Theme",
+	"name": "Minimal dark neon yellow",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -1977,9 +1977,9 @@
 	  "panelTitle.inactiveForeground": "#e7e7e799",
 	  "badge.background": "#fff01f",
 	  "badge.foreground": "#000000",
-	  "terminal.foreground": "#ffffff",
-	  "terminal.selectionBackground": "#fff01f20",
-	  "terminalCursor.background": "#000000",
+	  "terminal.foreground": "#fff01f",
+	  "terminal.selectionBackground": "#fff01f46",
+	  "terminalCursor.background": "#000",
 	  "terminalCursor.foreground": "#fff01f",
 	  "terminal.border": "#fff01f",
 	  "terminal.ansiBlack": "#000000",
@@ -2012,9 +2012,9 @@
 	  "tab.inactiveForeground": "#ffffff80",
 	  "tab.hoverBackground": "#171603",
 	  "tab.hoverBorder": "#fff01f46",
-	  "scrollbarSlider.background": "#79797966",
-	  "scrollbarSlider.hoverBackground": "#646464b3",
-	  "scrollbarSlider.activeBackground": "#bfbfbf66",
+	  "scrollbarSlider.background": "#fff01f36",
+	  "scrollbarSlider.hoverBackground": "#fff01f46",
+	  "scrollbarSlider.activeBackground": "#fff01f",
 	  "progressBar.background": "#fff01f",
 	  "widget.shadow": "#fff01f",
 	  "editorWidget.foreground": "#cccccc",
@@ -2102,4 +2102,4 @@
 	  "debugExceptionWidget.background": "#080800",
 	  "debugExceptionWidget.border": "#fff01f"
 	}
-}
+  }
